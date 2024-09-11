@@ -1,2 +1,3 @@
-# linktree
-Exemplo de conceitos React + Tailwind
+# Linktree
+
+## Exemplo de conceitos React + TypeScript + Vite + Tailwind
